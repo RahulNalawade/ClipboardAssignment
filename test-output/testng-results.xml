@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-19T02:26:08 IST" name="Suite" finished-at="2022-10-19T02:28:04 IST" duration-ms="115909">
+    <groups>
+    </groups>
+    <test started-at="2022-10-19T02:26:08 IST" name="Test" finished-at="2022-10-19T02:28:04 IST" duration-ms="115909">
+      <class name="com.testcases.AmazonProductVerification">
+        <test-method is-config="true" signature="intilization()[pri:0, instance:com.testcases.AmazonProductVerification@26e356f0]" started-at="2022-10-19T02:26:08 IST" name="intilization" finished-at="2022-10-19T02:26:14 IST" duration-ms="5465" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intilization -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.testcases.AmazonProductVerification@26e356f0]" started-at="2022-10-19T02:26:14 IST" name="beforeMethod" finished-at="2022-10-19T02:26:14 IST" duration-ms="48" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="searchProdcuts()[pri:0, instance:com.testcases.AmazonProductVerification@26e356f0]" started-at="2022-10-19T02:26:14 IST" name="searchProdcuts" finished-at="2022-10-19T02:28:03 IST" duration-ms="109568" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchProdcuts -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:com.testcases.AmazonProductVerification@26e356f0]" started-at="2022-10-19T02:28:03 IST" name="quit" finished-at="2022-10-19T02:28:04 IST" duration-ms="781" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- com.testcases.AmazonProductVerification -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
